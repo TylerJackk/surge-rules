@@ -1,5 +1,0 @@
-# 一行一条规则。
-# example.com 代表精确域名；.example.com 代表域名及其所有子域名。
-#
-# example.com
-# .example.org

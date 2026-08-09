@@ -1,5 +1,0 @@
-#!name=个人 Surge 基础模块
-#!desc=个人基础设置；按需编辑后启用
-
-[General]
-skip-proxy = %APPEND% localhost, *.local

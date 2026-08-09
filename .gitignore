@@ -1,5 +1,4 @@
 .DS_Store
-publish/
 *.local
 .env
 .env.*

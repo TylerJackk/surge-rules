@@ -1,0 +1,6 @@
+#!name=TylerJackk 通用设置
+#!desc=追加常用局域网直连和真实 IP 配置
+
+[General]
+skip-proxy = %APPEND% localhost, *.local
+always-real-ip = %APPEND% *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
