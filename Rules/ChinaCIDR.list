@@ -1,7 +1,7 @@
 # NAME: ChinaCIDR
 # AUTHOR: TylerJackk
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.08.09 23:04:40
+# UPDATED: 2026.08.09 23:17:48
 # TOTAL: 5814
 
 IP-CIDR,1.1.8.0/24
