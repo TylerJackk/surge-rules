@@ -1,0 +1,13 @@
+# NAME: lhie1/Spotify
+# AUTHOR: TylerJackk
+# UPSTREAM: lhie1
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 6
+
+USER-AGENT,Spotify*
+DOMAIN-KEYWORD,spotify
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotilocal.com
