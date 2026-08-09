@@ -22,8 +22,12 @@ scripts/update-rules.sh           上游规则同步脚本
 ## 使用配置
 
 1. 将仓库设为公开，否则 Surge 无法匿名下载 GitHub Raw 文件。
-2. 选择下面一个配置，打开文件并把 `你的订阅地址` 替换为机场提供的
-   Surge 4/5 原生订阅地址。
+2. 选择下面一个配置，打开文件并替换两个订阅占位符：
+
+   - `订阅源1_机场_Surge地址`：主订阅；
+   - `订阅源2_CF_Surge地址`：备用订阅。
+
+   两者都必须返回 Surge 4/5 原生策略行。
 3. 将修改后的配置作为自己的私有配置使用。不要把含 Token 的订阅地址提交到
    公开仓库。
 
@@ -57,6 +61,33 @@ https://raw.githubusercontent.com/TylerJackk/surge-rules/refs/heads/main/Conf/Sp
 ```
 
 不要把订阅地址、密码、UUID、私钥或 Token 提交到本仓库。
+
+## 双订阅与自动主备
+
+两个完整版都使用分层策略，不会先把节点粗暴混成一个列表：
+
+```text
+机场订阅 -> 机场自动选择 ┐
+                         ├-> fallback 主备组 -> 各服务策略
+CF 订阅  -> CF 自动选择  ┘
+```
+
+`fallback` 按书写顺序选择第一个可用策略，因此默认使用机场；机场健康检查失败后
+自动切到 CF，机场恢复后会重新成为首选。默认检测间隔为 300 秒、超时为 5 秒。
+
+如果原始订阅没有 Surge 格式，不能直接放进 `policy-path`。请先分别转换为
+`Surge 4/5`，再把两个转换后的链接填入配置。推荐使用机场官方转换接口或自建
+Subconverter；使用第三方在线转换站会把订阅 Token 暴露给该服务。
+
+正确的订阅响应应是纯策略列表，例如：
+
+```ini
+香港 01 = trojan, example.com, 443, password=REDACTED, sni=example.com
+CF 01 = vmess, example.net, 443, username=REDACTED, tls=true
+```
+
+不要使用完整 Clash YAML、Base64 节点订阅或包含 `[General]`、`[Rule]` 的完整
+Surge 配置作为 `policy-path`。
 
 ## 手动规则
 
