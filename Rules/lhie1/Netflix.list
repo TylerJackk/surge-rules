@@ -1,0 +1,14 @@
+# NAME: lhie1/Netflix
+# AUTHOR: TylerJackk
+# UPSTREAM: lhie1
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 7
+
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net

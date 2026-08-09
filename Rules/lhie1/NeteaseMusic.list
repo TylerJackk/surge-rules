@@ -1,0 +1,9 @@
+# NAME: lhie1/NeteaseMusic
+# AUTHOR: TylerJackk
+# UPSTREAM: lhie1
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 2
+
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net

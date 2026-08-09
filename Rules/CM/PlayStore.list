@@ -1,0 +1,13 @@
+# NAME: CM/PlayStore
+# AUTHOR: TylerJackk
+# UPSTREAM: CM
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 6
+
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN,dl.google.com
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,services.googleapis.cn

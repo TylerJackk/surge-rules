@@ -1,0 +1,24 @@
+# NAME: CM/OneDrive
+# AUTHOR: TylerJackk
+# UPSTREAM: CM
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 17
+
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com

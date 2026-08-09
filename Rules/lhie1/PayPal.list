@@ -1,0 +1,11 @@
+# NAME: lhie1/PayPal
+# AUTHOR: TylerJackk
+# UPSTREAM: lhie1
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 4
+
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,paypal
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypalobjects.com

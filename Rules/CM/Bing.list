@@ -1,0 +1,10 @@
+# NAME: CM/Bing
+# AUTHOR: TylerJackk
+# UPSTREAM: CM
+# REPO: https://github.com/TylerJackk/surge-rules
+# UPDATED: 2026.08.10 00:11:53
+# TOTAL: 3
+
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,copilot.microsoft.com
