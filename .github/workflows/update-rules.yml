@@ -1,0 +1,36 @@
+name: Update Surge rules
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "Rules/Manual/**"
+      - "scripts/update-rules.sh"
+
+permissions:
+  contents: write
+
+jobs:
+  update-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Download and merge rules
+        run: ./scripts/update-rules.sh
+
+      - name: Commit generated rules
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Rules/*.list
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Surge rules"
+            git push
+          fi
