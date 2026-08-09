@@ -1,0 +1,9 @@
+.DS_Store
+publish/
+*.local
+.env
+.env.*
+subscription*
+proxies*
+nodes*
+secrets/

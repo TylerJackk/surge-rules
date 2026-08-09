@@ -1,0 +1,3 @@
+# 需要拒绝访问的域名。
+#
+# .telemetry.example.com
