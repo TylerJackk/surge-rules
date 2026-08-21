@@ -1,8 +1,8 @@
 # NAME: Proxy
 # AUTHOR: TylerJackk
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.08.21 04:14:56
-# TOTAL: 6900
+# UPDATED: 2026.08.22 04:11:28
+# TOTAL: 6901
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -4140,6 +4140,7 @@ DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okpool.me
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,old-cat.net
+DOMAIN-SUFFIX,oldmapsonline.org
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
