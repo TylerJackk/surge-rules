@@ -1,8 +1,8 @@
 # NAME: Proxy
 # AUTHOR: TylerJackk
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.08.31 06:10:46
-# TOTAL: 6910
+# UPDATED: 2026.09.01 07:28:09
+# TOTAL: 6912
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -2268,6 +2268,7 @@ DOMAIN-SUFFIX,getjetso.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getmalus.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,getmonero.org
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getpricetag.com
 DOMAIN-SUFFIX,getsession.org
@@ -3987,6 +3988,7 @@ DOMAIN-SUFFIX,nhk-ondemand.jp
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,nianticlabs.com
 DOMAIN-SUFFIX,nic.gov
+DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nighost.org
 DOMAIN-SUFFIX,nightlife141.com
