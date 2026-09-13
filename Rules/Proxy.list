@@ -1,8 +1,8 @@
 # NAME: Proxy
 # AUTHOR: TylerJackk
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.09.13 05:44:41
-# TOTAL: 6923
+# UPDATED: 2026.09.14 05:51:15
+# TOTAL: 6924
 
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
@@ -4615,6 +4615,7 @@ DOMAIN-SUFFIX,qq.co.za
 DOMAIN-SUFFIX,qstatus.com
 DOMAIN-SUFFIX,qtrac.eu
 DOMAIN-SUFFIX,qtweeter.com
+DOMAIN-SUFFIX,quakemachinex.com
 DOMAIN-SUFFIX,quannengshen.org
 DOMAIN-SUFFIX,quantumbooter.net
 DOMAIN-SUFFIX,quay.io
