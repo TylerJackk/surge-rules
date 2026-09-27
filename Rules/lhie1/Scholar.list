@@ -2,7 +2,7 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.09.27 06:13:52
+# UPDATED: 2026.09.28 06:37:35
 # TOTAL: 74
 
 DOMAIN-SUFFIX,acm.org
@@ -62,8 +62,8 @@ DOMAIN-SUFFIX,royalsocietypublishing.org
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,sci-hub.tw
-DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,scitation.org
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,semanticscholar.org

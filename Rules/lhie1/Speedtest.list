@@ -2,12 +2,14 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.09.27 06:13:52
-# TOTAL: 6
+# UPDATED: 2026.09.28 06:37:35
+# TOTAL: 8
 
 DOMAIN-SUFFIX,fast.com
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,speed.cloudflare.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN,speed.dler.io
-DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
+USER-AGENT,SpeedTest*
