@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.02 07:30:36
-# TOTAL: 104
+# UPDATED: 2026.10.03 07:21:05
+# TOTAL: 106
 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,appldnld.apple.com
@@ -22,7 +22,9 @@ DOMAIN-SUFFIX,appstoreconnect.apple.com
 DOMAIN,contentdelivery.itunes.apple.com
 DOMAIN-SUFFIX,itunesconnect.apple.com
 DOMAIN,api.smoot.apple.cn
-DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 PROCESS-NAME,aria2c
 PROCESS-NAME,fdm
 PROCESS-NAME,Folx

@@ -2,10 +2,13 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.02 07:30:36
-# TOTAL: 6
+# UPDATED: 2026.10.03 07:21:05
+# TOTAL: 9
 
 DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
 DOMAIN-SUFFIX,discordapp.com
