@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.15 06:45:05
-# TOTAL: 278
+# UPDATED: 2026.10.16 06:43:43
+# TOTAL: 322
 
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,citicbank.com
@@ -16,6 +16,51 @@ DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,mbcloud.com
 USER-AGENT,cmb*
 DOMAIN-SUFFIX,cn
+DOMAIN,p-aweme-im-img-sign.bytedance.net
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinfe.com
+DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,huoshancdn.com
+DOMAIN-SUFFIX,huoshanimg.com
+DOMAIN-SUFFIX,huoshanlive.com
+DOMAIN-SUFFIX,huoshanstatic.com
+DOMAIN-SUFFIX,huoshanvod.com
+DOMAIN-SUFFIX,hypercachenode.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,idouyinliving.com
+DOMAIN-SUFFIX,idouyinpic.com
+DOMAIN-SUFFIX,idouyinstatic.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,iesdouyin.net
+DOMAIN-SUFFIX,ihuoshanimg.com
+DOMAIN-SUFFIX,ihuoshanlive.com
+DOMAIN-SUFFIX,ihuoshanstatic.com
+DOMAIN-SUFFIX,ihuoshanvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,supercachenet.com
+DOMAIN-SUFFIX,supercachenode.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,ultracachenode.com
+DOMAIN-SUFFIX,yhgfb-cn-static.com
+DOMAIN-SUFFIX,zijieapi.com
 USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
 DOMAIN-SUFFIX,aweray.com
 DOMAIN-SUFFIX,oray.com
@@ -80,7 +125,6 @@ DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyutv.com
