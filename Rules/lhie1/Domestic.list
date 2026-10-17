@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.17 06:16:20
-# TOTAL: 322
+# UPDATED: 2026.10.18 05:48:23
+# TOTAL: 326
 
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,citicbank.com
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,supercachenet.com
 DOMAIN-SUFFIX,supercachenode.com
 DOMAIN-SUFFIX,toutiao.com
@@ -66,6 +67,9 @@ DOMAIN-SUFFIX,aweray.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volcengineapi.com
+DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net

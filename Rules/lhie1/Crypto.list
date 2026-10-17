@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.17 06:16:20
-# TOTAL: 239
+# UPDATED: 2026.10.18 05:48:23
+# TOTAL: 260
 
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
@@ -85,7 +85,6 @@ DOMAIN-SUFFIX,binancezh.live
 DOMAIN-SUFFIX,binancezh.mobi
 DOMAIN-SUFFIX,binancezh.net
 DOMAIN-SUFFIX,binancezh.pro
-DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
 DOMAIN-SUFFIX,bnappzh.co
 DOMAIN-SUFFIX,bnappzh.com
@@ -146,47 +145,67 @@ DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,arbitrum.io
 DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitmart.com
 DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitquick.co
 DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bitunix.com
 DOMAIN-SUFFIX,boba.network
 DOMAIN-SUFFIX,btcbox.co.jp
+DOMAIN-SUFFIX,bybit.ae
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bybit.eu
+DOMAIN-SUFFIX,bybit.id
+DOMAIN-SUFFIX,bybit.kz
+DOMAIN-SUFFIX,bybit.tr
+DOMAIN-SUFFIX,bybitgeorgia.ge
+DOMAIN-SUFFIX,bytick.com
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,korbit.co.kr
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.eu
 DOMAIN-SUFFIX,liquid.com
 DOMAIN-SUFFIX,optimism.io
-DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,phemex.com
 DOMAIN-SUFFIX,poloniex.com
 DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,solana.com
 DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,bittrexglobal.com
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,gate.ac
+DOMAIN-SUFFIX,gate.com
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,gateio.ws
 DOMAIN-SUFFIX,bitderiv.com
 DOMAIN-SUFFIX,hbabit.com
+DOMAIN-SUFFIX,hbdm.com
 DOMAIN-SUFFIX,hbfile.net
 DOMAIN-SUFFIX,heco-scan.com
 DOMAIN-SUFFIX,hecochain.com
 DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,huobi.br.com
 DOMAIN-SUFFIX,huobi.co.ma
 DOMAIN-SUFFIX,huobi.com
@@ -209,7 +228,9 @@ DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 DOMAIN-SUFFIX,metamask.io
 DOMAIN,token-api.metaswap.codefi.network
+DOMAIN-SUFFIX,mexc.co
 DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.in
 DOMAIN-SUFFIX,cryptoart.io
 DOMAIN-SUFFIX,cryptoslam.io
 DOMAIN-SUFFIX,makersplace.com
@@ -221,6 +242,7 @@ DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
 PROCESS-NAME,OKX.exe
+DOMAIN-SUFFIX,paxful.com
 DOMAIN-SUFFIX,1ml.com
 DOMAIN-SUFFIX,bitcoinvisuals.com
 DOMAIN-SUFFIX,bitnodes.earn.com
@@ -242,5 +264,4 @@ DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,trustwalletapp.com
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
-DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
