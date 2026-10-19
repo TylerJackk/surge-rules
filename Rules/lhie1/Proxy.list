@@ -2,7 +2,7 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.19 05:58:38
+# UPDATED: 2026.10.20 07:10:34
 # TOTAL: 1016
 
 IP-CIDR,13.32.0.0/16,no-resolve
