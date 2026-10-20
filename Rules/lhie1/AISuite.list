@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.20 07:10:34
-# TOTAL: 178
+# UPDATED: 2026.10.21 06:44:56
+# TOTAL: 192
 
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
@@ -107,6 +107,20 @@ DOMAIN-SUFFIX,antigravity.google.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
+DOMAIN,aiplatform.eu.rep.googleapis.com
+DOMAIN,aiplatform.googleapis.com
+DOMAIN,aiplatform.mtls.googleapis.com
+DOMAIN,aiplatform.us.rep.googleapis.com
+DOMAIN,businessaicode.eu.rep.googleapis.com
+DOMAIN,businessaicode.googleapis.com
+DOMAIN,businessaicode.mtls.googleapis.com
+DOMAIN,businessaicode.us.rep.googleapis.com
+DOMAIN,discoveryengine.googleapis.com
+DOMAIN,discoveryengine.mtls.googleapis.com
+DOMAIN,eu-discoveryengine.googleapis.com
+DOMAIN,eu-discoveryengine.mtls.googleapis.com
+DOMAIN,us-discoveryengine.googleapis.com
+DOMAIN,us-discoveryengine.mtls.googleapis.com
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
