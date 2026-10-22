@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.22 06:50:36
-# TOTAL: 192
+# UPDATED: 2026.10.23 06:49:17
+# TOTAL: 193
 
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
@@ -178,6 +178,7 @@ DOMAIN-SUFFIX,kiro.dev
 DOMAIN,q.eu-central-1.amazonaws.com
 DOMAIN,q.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
