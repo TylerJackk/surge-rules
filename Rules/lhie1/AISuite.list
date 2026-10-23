@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.23 06:49:17
-# TOTAL: 193
+# UPDATED: 2026.10.24 06:41:35
+# TOTAL: 192
 
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
@@ -79,11 +79,6 @@ DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursorvm.com
 DOMAIN,accounts.spacex.ai
-DOMAIN,accounts.x.ai
-DOMAIN,auth.grok.com
-DOMAIN,auth.grokipedia.com
-DOMAIN,auth.grokusercontent.com
-DOMAIN,auth.x.ai
 DOMAIN-SUFFIX,diabrowser.com
 DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,dify.ai
@@ -198,3 +193,7 @@ DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,zed.dev
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grokusercontent.com
+DOMAIN-SUFFIX,x.ai

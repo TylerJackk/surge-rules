@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.23 06:49:17
-# TOTAL: 106
+# UPDATED: 2026.10.24 06:41:35
+# TOTAL: 107
 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,appldnld.apple.com
@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,ts.la
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 PROCESS-NAME,UUBooster
+DOMAIN-SUFFIX,3gppnetwork.org
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,xunlei.com
 USER-AGENT,%E8%BF%85%E9%9B%B7
