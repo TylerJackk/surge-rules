@@ -2,9 +2,13 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.28 07:17:23
-# TOTAL: 9
+# UPDATED: 2026.10.29 07:40:35
+# TOTAL: 13
 
+DOMAIN,authorization.go.com
+DOMAIN,disney.content.edge.bamgrid.com
+DOMAIN,disney.playback.edge.bamgrid.com
+DOMAIN,login.disney.com
 DOMAIN-SUFFIX,cdn.registerdisney.go.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
