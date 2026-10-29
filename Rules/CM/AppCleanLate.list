@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: CM
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.10.29 07:40:35
-# TOTAL: 7610
+# UPDATED: 2026.10.30 07:40:40
+# TOTAL: 7615
 
 DOMAIN,adobe.io
 DOMAIN,cc-api-data.adobe.io
@@ -7603,6 +7603,11 @@ DOMAIN,uiy57c67x.bgvqb.adobestats.io
 DOMAIN,qtenv2l0t.u0op6.adobestats.io
 DOMAIN,mp74x2rt8m.lqn0m.adobestats.io
 DOMAIN,2ecmaybww.61ro5.adobestats.io
+DOMAIN,us9ud3c2amrc.u0op6.adobestats.io
+DOMAIN,ht3lca63hmr0.u0op6.adobestats.io
+DOMAIN,b4ugswhrwd.u0op6.adobestats.io
+DOMAIN,ow2vr73mg.u0op6.adobestats.io
+DOMAIN,bxx3yvikejb.u0op6.adobestats.io
 DOMAIN-SUFFIX,tonec.com
 DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,internetdownloadmanager.com
