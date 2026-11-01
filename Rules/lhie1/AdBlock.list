@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.01 06:53:27
-# TOTAL: 7257
+# UPDATED: 2026.11.02 07:10:44
+# TOTAL: 7258
 
 DOMAIN,duclick.baidu.com
 DOMAIN,hm.baidu.com
@@ -46,6 +46,7 @@ IP-CIDR,222.186.61.91/32,no-resolve
 IP-CIDR,222.186.61.95/32,no-resolve
 IP-CIDR,222.186.61.96/32,no-resolve
 IP-CIDR,222.186.61.97/32,no-resolve
+DOMAIN,dm.wo.com.cn
 IP-CIDR,106.75.231.48/32,no-resolve
 IP-CIDR,119.4.249.166/32,no-resolve
 IP-CIDR,220.196.52.141/32,no-resolve

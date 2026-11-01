@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.01 06:53:27
-# TOTAL: 1028
+# UPDATED: 2026.11.02 07:10:44
+# TOTAL: 1029
 
 IP-CIDR,13.32.0.0/16,no-resolve
 IP-CIDR,13.33.0.0/16,no-resolve
@@ -864,6 +864,7 @@ DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
 DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
 DOMAIN-SUFFIX,trendsmap.com
 DOMAIN-SUFFIX,trulyergonomic.com
 DOMAIN-SUFFIX,trustasiassl.com
