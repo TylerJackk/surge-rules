@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.02 07:10:44
-# TOTAL: 107
+# UPDATED: 2026.11.03 09:53:29
+# TOTAL: 112
 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,appldnld.apple.com
@@ -95,6 +95,11 @@ DOMAIN,steamusercontent-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,wmsjsteam.com
 USER-AGENT,Steam*
+PROCESS-NAME,tailscaled
+PROCESS-NAME,tailscaled.exe
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 IP-CIDR,100.64.0.0/10,no-resolve
 DOMAIN-SUFFIX,solarcity.com
 DOMAIN,tesla-cdn.thron.cn

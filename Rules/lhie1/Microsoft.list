@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.02 07:10:44
-# TOTAL: 572
+# UPDATED: 2026.11.03 09:53:29
+# TOTAL: 573
 
 DOMAIN-SUFFIX,azure
 DOMAIN-SUFFIX,azure-apim.net
@@ -541,6 +541,7 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
