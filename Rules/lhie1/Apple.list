@@ -2,14 +2,15 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.06 08:35:12
-# TOTAL: 27
+# UPDATED: 2026.11.07 07:50:54
+# TOTAL: 30
 
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,apple-support.akadns.net
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.akadns.net
@@ -19,7 +20,9 @@ DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud.com.akadns.net
 DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,ls-apple.com.akadns.net
 DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,me.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 IP-CIDR,17.0.0.0/8,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve

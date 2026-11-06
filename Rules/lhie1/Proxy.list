@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.06 08:35:12
-# TOTAL: 1031
+# UPDATED: 2026.11.07 07:50:54
+# TOTAL: 1039
 
 IP-CIDR,13.32.0.0/16,no-resolve
 IP-CIDR,13.33.0.0/16,no-resolve
@@ -369,6 +369,9 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/20,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,vector.im
 DOMAIN-SUFFIX,bidobido.xyz
 DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,bikawebapp.com
@@ -399,6 +402,8 @@ DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,teslamotors.com
 DOMAIN,testflight.apple.com
+DOMAIN-SUFFIX,gotinder.com
+DOMAIN-SUFFIX,tindersparks.com
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
 DOMAIN-SUFFIX,4shared.com
@@ -1026,6 +1031,9 @@ DOMAIN-SUFFIX,twitterflightschool.com
 DOMAIN-SUFFIX,twitterinc.com
 DOMAIN-SUFFIX,twitteroauth.com
 DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,sleazyfork.org
+DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,picjs.xyz
 DOMAIN-SUFFIX,vikacg.com
