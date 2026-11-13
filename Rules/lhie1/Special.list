@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.12 09:42:48
-# TOTAL: 118
+# UPDATED: 2026.11.13 08:45:44
+# TOTAL: 121
 
 DOMAIN,aod.itunes.apple.com
 DOMAIN,appldnld.apple.com
@@ -40,6 +40,9 @@ USER-AGENT,duet*
 DOMAIN,ol.epicgames.com
 DOMAIN-SUFFIX,dl.google.com
 DOMAIN,safebrowsing.googleapis.com
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,alipayhk.com
+DOMAIN-SUFFIX,antbank.hk
 DOMAIN-SUFFIX,bank.za.group
 DOMAIN-SUFFIX,citibank.com.hk
 DOMAIN-SUFFIX,hangseng.com
