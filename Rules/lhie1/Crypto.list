@@ -2,8 +2,8 @@
 # AUTHOR: TylerJackk
 # UPSTREAM: lhie1
 # REPO: https://github.com/TylerJackk/surge-rules
-# UPDATED: 2026.11.15 07:27:23
-# TOTAL: 274
+# UPDATED: 2026.11.16 07:36:49
+# TOTAL: 276
 
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
@@ -188,6 +188,8 @@ DOMAIN-SUFFIX,coinone.co.kr
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,deribit.com
 DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,dtcpay.com
+DOMAIN-SUFFIX,dtcpay.sg
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,gemini.com
 DOMAIN-SUFFIX,korbit.co.kr
